@@ -16,6 +16,7 @@ class Test04():
         print("查询成功",before)
     def test_put(self):
         print("修改成功")
+
     def test_post(self):
         print("新增成功")
 
